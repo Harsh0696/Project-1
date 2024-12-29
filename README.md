@@ -5,6 +5,7 @@
 - Also, he needs an analysis to understand which product categories and brands are performing well and which ones may require strategic adjustments.
 
 ## Dataset
+[Store Dataset](https://github.com/Harsh0696/Project_1/blob/main/Stores_dataset.xlsx)
 
 
 ## Key Proformance Indicators (KPIs)
