@@ -1,4 +1,4 @@
-# Project - 1: Store Data Analysis
+# Project : Store Data Analysis
 ## Objective
 - A large retail company has provided a dataset containing transactional data from all company stores.
 - In last executive meeting, the CEO expressed concerns about the company's loyalty program and its effectiveness in retaining valuable customers.
