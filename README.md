@@ -8,7 +8,7 @@
 [Store Dataset](https://github.com/Harsh0696/Project_1/blob/main/Stores_dataset.xlsx)
 
 
-## Key Proformance Indicators (KPIs)
+## Key Performance Indicators (KPIs)
 1. **Customer Loyalty Analysis**:
     - Analyze the relationship between customer loyalty (Premium_Customer) and purchasing behaviour (e.g., total sales, frequency of visits, product preferences)
     - Identify any patterns or trends that could help improve the customer loyalty program and enhance customer retention strategies.
